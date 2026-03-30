@@ -8,7 +8,6 @@ print('Winning rules of the game ROCK PAPER SCISSORS are:\n'
 
 
 while True:
-
     print("Enter your choice \n 1 - Rock \n 2 - Paper \n 3 - Scissors \n")
 
     # Take the input from user
