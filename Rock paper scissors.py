@@ -30,6 +30,7 @@ while True:
     print('User choice is:', choice_name)
     print("Now it's Computer's Turn...")
 
+      
     # Computer chooses randomly any number among 1, 2, and 3
     comp_choice = random.randint(1, 3)
 
